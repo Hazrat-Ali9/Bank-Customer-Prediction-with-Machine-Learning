@@ -75,3 +75,5 @@ Demonstrate real-world data science applications in banking
 💡 “Turning financial data into intelligent predictions.”
 
 A machine learning project focused on predicting and understanding bank customer behavior through data-driven insights.
+
+[MIT License](LICENSE)
